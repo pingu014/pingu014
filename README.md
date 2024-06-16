@@ -2,7 +2,7 @@
 
 <img align="down" src="https://i.imgur.com/E3aBiPa.gif" width="320" height="220"/>
 
-  [![m6sser's GitHub stats](https://readme-github-stats-flame.vercel.app/api?username=controlado&card_width=495&hide_title=false&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&custom_title=Messer's%20Github%20stats!%20)](https://github.com/m6sser)
+  [![pingu014's GitHub stats](https://readme-github-stats-flame.vercel.app/api?username=controlado&card_width=495&hide_title=false&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&custom_title=pingu014's%20Github%20stats!%20)](https://github.com/pingu014)
   
 
 
