@@ -16,7 +16,7 @@
 
 
 ### **💦 Who am I?**
-- ![info](https://img.shields.io/static/v1?logo=ReverbNation&label=&message=Felipe%20Messer%20&labelColor=4f94ef&color=white&logoColor=white&style=flat)
+- [![info](https://img.shields.io/static/v1?logo=ReverbNation&label=&message=Felipe%20Messer%20&labelColor=4f94ef&color=white&logoColor=white&style=flat)](https://www.linkedin.com/in/pingu014/)
   ![info1](https://img.shields.io/static/v1?logo=Google%20Maps&label=&message=Brazil&color=white&logoColor=white&style=flat&labelColor=4f94ef)
   [![info2](https://img.shields.io/static/v1?logo=Southwest%20Airlines&label=&message=Single&color=white&logoColor=white&style=flat&labelColor=4f94ef)](https://imgur.com/gallery/2cNfedV)
 - ![lang](https://img.shields.io/static/v1?logo=Google%20Translate&label=&message=Idioms&color=white&logoColor=white&style=flat&labelColor=4f94ef)
