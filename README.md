@@ -1,12 +1,21 @@
-### 🌊 Be welcome to my Room xD 
+### **_🌊 Be welcome to my Room xD._**
 
-<img align="down" src="https://i.imgur.com/E3aBiPa.gif" width="320" height="220"/>
-
-  [![pingu014's GitHub stats](https://readme-github-stats-flame.vercel.app/api?username=controlado&card_width=495&hide_title=false&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&custom_title=pingu014's%20Github%20stats!%20)](https://github.com/pingu014)
+<img align="center" src="https://i.imgur.com/E3aBiPa.gif" width="320" height="220">
   
+### **🐳 My stats!**
+</details>
+  <details>
+   <summary>Click Here!(Tracking since: 06/05/2022) :point_left:</summary>
+
+   [![pingu014's GitHub stats](https://readme-github-stats-flame.vercel.app/api?username=controlado&card_width=495&hide_title=false&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&custom_title=pingu014's%20Github%20stats!%20)](https://github.com/pingu014)
+  
+   [![m6sser's wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=89c5e1c8-9e67-43ef-bd0e-3ff9a4fde5e2&langs_count=6&range=all_time&theme=github_dark&custom_title=My%20Wakatime%20stats!%20:p%20)](https://github.com/m6sser)
+  
+   [![m6sser's streak](https://github-readme-streak-stats.herokuapp.com/?user=controlado&theme=github-dark-blue&date_format=n%2Fj%5B%2FY%5D&background=FFFFFFstroke=4F94EF&currStreakLabel=4F94EF&currStreakNum=505963&sideNums=4F94EF&sideLabels=4F94EF&border=DDDBDB&hide_dates=true)](https://github.com/m6sser) 
+  </details>
 
 
-### 💦 Who am I?
+### **💦 Who am I?**
 - ![info](https://img.shields.io/static/v1?logo=ReverbNation&label=&message=Felipe%20Messer%20&labelColor=4f94ef&color=white&logoColor=white&style=flat)
   ![info1](https://img.shields.io/static/v1?logo=Google%20Maps&label=&message=Brazil&color=white&logoColor=white&style=flat&labelColor=4f94ef)
   [![info2](https://img.shields.io/static/v1?logo=Southwest%20Airlines&label=&message=Single&color=white&logoColor=white&style=flat&labelColor=4f94ef)](https://imgur.com/gallery/2cNfedV)
@@ -20,18 +29,9 @@
 
 #
 
-### 🐬 Find me here!
+### **🐧 Find me here!**
 - [![social1](https://img.shields.io/static/v1?logo=instagram&link=https://instagram.com/fmesser11&label=&message=fmesser11&color=white&logoColor=white&style=flat&labelColor=4f94ef)](https://instagram.com/fmesser11)
   [![social2](https://img.shields.io/static/v1?logo=GitHub&link=https://github.com/pingu014&label=&message=pingu014&color=white&logoColor=white&style=flat&labelColor=4f94ef)](https://github.com/pingu014)
   [![social3](https://img.shields.io/static/v1?logo=Discord&link=http://discordapp.com/users/pingu014&label=&message=pingu014&color=white&logoColor=white&style=flat&labelColor=4f94ef)](http://discordapp.com/users/pingu014)
 
 #
-
-</details>
-  <details>
-   <summary>🐳 Click here! (Tracking since: 06/05/2022)</summary>
-  
-   [![m6sser's wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=89c5e1c8-9e67-43ef-bd0e-3ff9a4fde5e2&langs_count=6&range=all_time&theme=github_dark&custom_title=My%20Wakatime%20stats!%20:p%20)](https://github.com/m6sser)
-  
-   [![m6sser's streak](https://github-readme-streak-stats.herokuapp.com/?user=controlado&theme=github-dark-blue&date_format=n%2Fj%5B%2FY%5D&background=FFFFFFstroke=4F94EF&currStreakLabel=4F94EF&currStreakNum=505963&sideNums=4F94EF&sideLabels=4F94EF&border=DDDBDB&hide_dates=true)](https://github.com/m6sser) 
-  </details>
