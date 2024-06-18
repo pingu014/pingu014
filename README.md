@@ -22,6 +22,7 @@
 - ![lang](https://img.shields.io/static/v1?logo=Google%20Translate&label=&message=Idioms&color=white&logoColor=white&style=flat&labelColor=4f94ef)
   ![lang1](https://img.shields.io/static/v1?label=&message=Portuguese&color=white&logoColor=white&style=flat)
   ![lang2](https://img.shields.io/static/v1?label=&message=English&color=white&logoColor=white&style=flat)
+  ![lang3](https://img.shields.io/static/v1?label=&message=Spanish&color=white&logoColor=white&style=flat)
 - [![languages](https://img.shields.io/static/v1?logo=Python&label=&message=Python&color=white&logoColor=white&style=flat&labelColor=4f94ef)](https://www.python.org)
   [![languages1](https://img.shields.io/static/v1?logo=Kali%20Linux&label=&message=Kali%20Linux&color=white&logoColor=white&style=flat&labelColor=4f94ef)](https://www.kali.org)
   [![languages2](https://img.shields.io/static/v1?logo=Windows%2011&label=&message=Windows%2011&color=white&logoColor=white&style=flat&labelColor=4f94ef)](https://www.microsoft.com/pt-br/software-download/windows11)
